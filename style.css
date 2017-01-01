@@ -13,12 +13,25 @@ h1 {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.parallax1 {
+.snowpic {
   background-img: url("seattle snow.jpg");
 }
-.parallax2 {
+.trailpic {
   background-img: url("trail.jpg");
 }
-.parallax3 {
+.shorepic {
   background-img: url("shore.jpg");
+}
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+.border {
+  background-color: transparent;
+  font-size: 25px;
+  color: #f7f7f7;
 }
