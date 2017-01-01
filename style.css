@@ -14,13 +14,13 @@ h1 {
   background-size: cover;
 }
 .snowpic {
-  background-img: url("seattle snow.jpg");
+  background-image: url("seattle snow.jpg");
 }
 .trailpic {
-  background-img: url("trail.jpg");
+  background-image: url("trail.jpg");
 }
 .shorepic {
-  background-img: url("shore.jpg");
+  background-image: url("shore.jpg");
 }
 .caption {
   position: absolute;
